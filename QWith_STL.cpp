@@ -1,7 +1,7 @@
 #include<iostream>
-#include<queue>
+#include<queue> 
 using namespace std;
-
+ 
 int main()
 {
 	// STL in Queues 
